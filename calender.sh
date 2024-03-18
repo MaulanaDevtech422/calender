@@ -1,6 +1,4 @@
-                                     Modified
 #ini adalah script bash untuk mengetahui calender dan waktu
-
 ps | lolcat
 date | lolcat
 cal | lolcat
