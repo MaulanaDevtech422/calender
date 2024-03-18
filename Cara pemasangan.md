@@ -1,4 +1,14 @@
 # cara install di terminal 
+- apt update &&  apt upgrade -y
+- pkg install ruby
+- gem install lolcat
+- pkg install git
+- git https://github.com/MaulanaDevtech422/calender
+- ls
+- cd calender
+- chmod +x calender.sh
+- ./calender.sh
+
 # Hak Cipta dan Kepemilikan
 
 Script ini dimiliki secara eksklusif oleh maulanDevtech. Seluruh hak cipta dilindungi dan tidak dapat dialihkan kepada pihak lain tanpa izin tertulis dari pemilik.
