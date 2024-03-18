@@ -3,7 +3,7 @@
 - pkg install ruby
 - gem install lolcat
 - pkg install git
-- git https://github.com/MaulanaDevtech422/calender
+- git clone https://github.com/MaulanaDevtech422/calender
 - ls
 - cd calender
 - chmod +x calender.sh
